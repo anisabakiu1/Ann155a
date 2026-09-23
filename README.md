@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Anisa 👋
 
-### Data Scientist | Economics Background | M.Sc. in Data Science
+### Data Scientist | M.Sc. in Data Science
 
 *Turning complex data into meaningful insight through statistics and machine learning*
 
