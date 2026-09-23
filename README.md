@@ -1,1 +1,1 @@
-![loading](loadings.svg)
+![loadings](loadings.svg)
